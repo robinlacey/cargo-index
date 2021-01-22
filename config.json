@@ -1,5 +1,5 @@
 {
-  "dl": "http://35.179.87.2:8855/api/v1/crates",
-  "api": "http:// 35.179.87.2:8855",
+  "dl": "http://35.179.87.26:8855/api/v1/crates",
+  "api": "http://35.179.87.26:8855",
   "allowed-registries": [ "https://github.com/rust-lang/crates.io-index" ] 
 }
